@@ -45,7 +45,7 @@ A singly linked list connects each order node to the next node through a pointer
 - Customer order record management
 - Learning data structures through a practical example
 
-6. Conclusion
+6.Conclusion
 The Canteen Order Management System demonstrates how a singly linked list can be used to manage food orders efficiently. It provides basic operations for adding, displaying, searching, updating, and deleting customer orders. The project helps simplify order management and serves as a foundation for developing a more advanced canteen system with food menu management and order status tracking.
 
 7. Language C++
