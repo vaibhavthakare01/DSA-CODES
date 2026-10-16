@@ -50,4 +50,4 @@ The Canteen Order Management System demonstrates how a singly linked list can be
 
 7. Language C++
 
-C++
+
