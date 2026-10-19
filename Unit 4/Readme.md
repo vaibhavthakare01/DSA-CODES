@@ -51,6 +51,7 @@ This method traverses the contacts in alphabetical order without requiring a sta
 
 
 4. Technologies Used
+ 
 C++
 Structures and pointers
 Dynamic memory allocation using new
@@ -61,6 +62,8 @@ Iterative inorder traversal
 
 
 5. Applications
+
+
 Personal contact directory management.
 Organizing contacts alphabetically.
 Searching for contact names.
@@ -69,6 +72,8 @@ Learning advanced tree data structures through a practical project.
 
 
 6. Conclusion
+
+   
 The Contact Directory System demonstrates how a Right-Threaded Binary Search Tree can be used to organize and manage contact information efficiently. It supports contact insertion, duplicate checking, searching, and alphabetical display.
 The use of right-threading enables inorder traversal without recursion or an auxiliary stack, making the project a practical demonstration of threaded binary trees and pointer-based data structures in C++.
 
