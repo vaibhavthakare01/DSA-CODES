@@ -1,8 +1,10 @@
 1. About the Project
+
 The Contact Directory System is a C++ project developed to manage contact names and phone numbers using a Right-Threaded Binary Search Tree (RTBST). The system allows users to insert new contacts, display all contacts in alphabetical order, and search for a contact using a menu-driven interface.
 A right-threaded BST uses the right pointer of a node to point to its inorder successor when the node does not have a right child. This helps perform inorder traversal without using recursion or a stack.
 
-2. Features
+3. Features
+   
 Basic Features
 Add Contact: Insert a new contact with a name and phone number.
 Display Contacts in Sorted Order: Display all contacts alphabetically using inorder traversal.
@@ -18,7 +20,7 @@ Memory Management: Allocate memory dynamically for each contact node.
 Future Improvement: Add contact editing and deletion functionality.
 Future Improvement: Add email addresses, home addresses, and contact categories.
 
-3. Data Structure Used: Right-Threaded Binary Search Tree (RTBST)
+4. Data Structure Used: Right-Threaded Binary Search Tree (RTBST)
 Each node stores:
 
 Contact name.
