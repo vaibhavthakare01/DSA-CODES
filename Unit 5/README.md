@@ -59,9 +59,9 @@ The algorithm continues until all vertices are included in the tree.
 
 ## 5. Programming Language
 
-C Programming Language
+Programming Language
 
-C is used to implement this project because it supports arrays, functions, conditional statements, and loops required for representing a weighted graph and implementing Prim’s algorithm efficiently.
+C++ is used to implement this project because it supports arrays, functions, conditional statements, and loops required for representing a weighted graph and implementing Prim’s algorithm efficiently.
 
 An adjacency matrix can be used to store the costs between sensors. A visited array and a minimum-cost array can then be used to select edges and construct the Minimum Spanning Tree.
 
